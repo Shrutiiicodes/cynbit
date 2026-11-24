@@ -1,0 +1,73 @@
+text,label
+"We get 300 support emails a day and want an AI agent that answers order-status questions from our Shopify data.",ai_automation
+"Looking for a voice bot that can call our leads in Hindi and English and book site visits for our real estate project.",ai_automation
+"Can you build a chatbot over our internal SOP PDFs so new employees can ask questions instead of pinging HR?",ai_automation
+"We want to automate invoice data entry. Vendors send PDFs by email and someone types them into Tally manually.",ai_automation
+"Need an LLM workflow that reads incoming tenders, summarizes eligibility criteria and flags the ones we should bid on.",ai_automation
+"Interested in autonomous agents that can qualify our inbound leads and update HubSpot automatically.",ai_automation
+"Our clinic wants an AI receptionist on WhatsApp to handle appointment booking and reminders.",ai_automation
+"How much would it cost to integrate GPT or Claude into our existing CRM to draft follow-up emails?",ai_automation
+"We have 5 years of call recordings. Want transcription plus sentiment and a dashboard of common complaints.",ai_automation
+"Looking for RAG implementation on our product catalog so customers can search in natural language.",ai_automation
+"Need an AI agent that monitors our competitors' pricing every day and sends a summary to Slack.",ai_automation
+"Can your team set up LangChain agents connected to our Postgres database for internal analytics questions?",ai_automation
+"We need a full-stack web app for our logistics company with driver tracking and admin panel. Budget around 8 lakh.",custom_software
+"Our PHP monolith from 2014 is falling apart. Want to migrate it to Node and move hosting to AWS.",custom_software
+"Need a mobile app (Android + iOS) for our gym chain with memberships, class booking and payments.",custom_software
+"Looking for a team to build the backend APIs for our fintech MVP. We have designs ready in Figma.",custom_software
+"Our servers on GoDaddy keep crashing during sales. Need help moving to Azure with autoscaling.",custom_software
+"Want to build a B2B ordering portal for our distributors integrated with our SAP system.",custom_software
+"We need a school ERP with attendance, fees and parent login. Timeline 3 months.",custom_software
+"Please quote for a Next.js e-commerce website with Razorpay and inventory management.",custom_software
+"Need DevOps support: set up CI/CD, Docker and Kubernetes for our microservices.",custom_software
+"Looking for a dedicated developer team to maintain and add features to our existing React app.",custom_software
+"Want a custom booking platform for our chain of salons across Jaipur and Udaipur.",custom_software
+"Our startup needs an MVP built in 6 weeks: marketplace connecting farmers with wholesale buyers.",custom_software
+"Our website gets almost no organic traffic. Need technical SEO audit and fixes.",digital_marketing
+"Looking for an agency to run Google and Meta ads for our coaching institute. Monthly budget 2 lakh.",digital_marketing
+"We want to improve our conversion rate. Landing page gets traffic but very few sign-ups.",digital_marketing
+"Need help setting up email automation and CRM workflows for our D2C skincare brand.",digital_marketing
+"Can you manage our Instagram and performance marketing for a new restaurant launch?",digital_marketing
+"Our ranking dropped after the last Google update. Need someone to diagnose and recover it.",digital_marketing
+"Want a full funnel strategy: ads, landing pages and retargeting for our SaaS free trial.",digital_marketing
+"Looking for performance marketing for our real estate project launch in Jaipur.",digital_marketing
+"Need local SEO so our clinics show up on Google Maps in 4 cities.",digital_marketing
+"Please share pricing for monthly SEO and content marketing retainer.",digital_marketing
+"We run an online store and our ROAS on Meta is below 1. Need someone to fix the campaigns.",digital_marketing
+"Want to automate lead nurturing from our website forms into WhatsApp and email sequences.",digital_marketing
+"Our college placement cell wants Cynbit Studio for 600 final-year students. Can we see a demo?",product_demo
+"We manage 120 rental flats and track rent in Excel. Interested in TenantEase pricing.",product_demo
+"We have 14 restaurant outlets and reviews on Google are a mess. Does Revio handle multi-location?",product_demo
+"Can Revio auto-reply to negative reviews in a polite tone and alert our manager?",product_demo
+"Is there a free trial of TenantEase for a small PG owner with 30 beds?",product_demo
+"We are an edtech company. Want to white-label the AI mock interview feature from Cynbit Studio.",product_demo
+"Please schedule a demo of your reputation management tool for our hotel group.",product_demo
+"Does Cynbit Studio support coding assessments in Java and Python for campus hiring?",product_demo
+"Our coaching centre wants AI resume and mock interview tools for students. Which plan fits?",product_demo
+"Can TenantEase send automatic rent reminders on WhatsApp and generate receipts?",product_demo
+"We want sentiment analysis of all our Google reviews across 40 dealerships. Is that Revio?",product_demo
+"Need a property management software for our co-living spaces with tenant onboarding.",product_demo
+"I am a 3rd year CSE student. How do I apply for the BitElevate internship?",internship_careers
+"Is the AI/ML internship paid and is it remote?",internship_careers
+"I have 2 years experience in Node.js. Are you hiring backend developers?",internship_careers
+"Can I get a college credit letter for the 60 day internship?",internship_careers
+"Applying for the UI/UX design intern role. Attaching my Behance portfolio.",internship_careers
+"What is the selection process for the Python and AI systems track?",internship_careers
+"Our college wants to tie up with Cynbit for an internship program for 50 students.",internship_careers
+"Is there a PPO after the BitElevate program? I am graduating in 2027.",internship_careers
+"Looking for a full time DevOps engineer role. Please find my resume attached.",internship_careers
+"Hi, I applied for the marketing intern position last week. Any update?",internship_careers
+"Do you have openings for freshers in business development?",internship_careers
+"Can I do the internship while in my final semester? Classes are till 2pm.",internship_careers
+"We offer guaranteed backlinks from DA 90 sites at the lowest price. Reply for list.",spam_other
+"Congratulations! Your domain is eligible for a free listing. Click here to claim.",spam_other
+"I am a freelancer from Pakistan offering logo design services at 5 dollars.",spam_other
+"hello",spam_other
+"Buy cheap followers and likes for Instagram, instant delivery.",spam_other
+"We are a staffing agency and can provide developers on contract for your projects.",spam_other
+"Please remove my email from your newsletter.",spam_other
+"test test 123",spam_other
+"Your website has 37 SEO errors. We can fix them for just 99 dollars.",spam_other
+"Partnership proposal: crypto investment opportunity with 30% monthly returns.",spam_other
+"I want to sell you our office furniture at wholesale prices.",spam_other
+"asdfgh",spam_other

@@ -1,0 +1,6 @@
+anthropic>=1.4
+pandas
+pydantic>=2
+scikit-learn
+sentence-transformers
+streamlit
